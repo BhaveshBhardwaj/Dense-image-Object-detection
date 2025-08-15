@@ -105,6 +105,7 @@ The model achieves strong performance on the validation set, accurately localizi
 
 ## Kaggle direct link
 https://www.kaggle.com/code/bhaveshbhardwaj7/aims-project-1-model-2
+My GPU Hours were exhuasted so i trained my model from different kaggle account but the new version was not able to push directly so this does notebook contains the exact same code but not the exact same outputs
 
 <!-- end list -->
 
