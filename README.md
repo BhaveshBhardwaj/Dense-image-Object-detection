@@ -103,6 +103,9 @@ The model achieves strong performance on the validation set, accurately localizi
   * **Handle Multiple Objects:** Extend the architecture to ground multiple phrases from a single, more complex sentence.
   * **Model Optimization:** Optimize the model for faster inference using techniques like pruning, quantization, or conversion to ONNX/TensorRT for deployment.
 
+## Kaggle direct link
+https://www.kaggle.com/code/bhaveshbhardwaj7/aims-project-1-model-2
+
 <!-- end list -->
 
 ```
